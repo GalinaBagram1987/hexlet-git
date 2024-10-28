@@ -1,1 +1,2 @@
-# hexlet-git
+NO code No pain
+experiment with amend
